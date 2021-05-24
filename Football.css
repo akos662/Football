@@ -1,0 +1,69 @@
+#egesz{
+    margin-left: 100px;
+    margin-right: 100px;
+    size: 80%;
+    text-align: justify;
+}
+
+body{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: ivory;
+    color: black;
+    font-family: 'Calibri';
+    font-size: 20px;
+}
+
+#fels{
+    display: block;
+    list-style-image: url("Focilabda.jpg");
+    width: 50px;
+}
+
+img{
+    width: 800px;
+    border: 2px black;
+}
+
+#stadion{
+    border: groove;
+    float: right;
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+
+#messi{
+    display: block;
+    width: 300px;
+}
+
+#nyil{
+    display: block;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+a{
+    color: red;
+}
+
+a:visited{
+    color: salmon;
+}
+
+a:hover{
+    color: white;
+    background-color: red;    
+}
+
+a:active{
+    color: blue;
+}
